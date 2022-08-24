@@ -1,0 +1,25 @@
+
+public class Main
+{
+	public static void main(String[] args) {
+	    
+System.out.println(totalGread(100,10));
+
+ 
+
+}
+	    
+public static int totalGread(int num1 , int num2){
+	    	return num1 + num2;
+	
+	
+	}
+	
+}
+	
+		
+
+	
+
+
+
